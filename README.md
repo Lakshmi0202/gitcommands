@@ -1,1 +1,9 @@
 # gitcommands
+git add
+git Commit
+git pull
+git push
+git branch
+git merge
+git status
+git checkout
